@@ -1,0 +1,55 @@
+ul{
+  list-style: none;
+  text-align: center;
+}
+
+footer{
+  margin:4% 20%;
+  font-size: 80%;
+  text-align: center;
+
+}
+body{
+  background-color: white;
+color: black;
+font-family: 'Roboto Condensed', sans-serif;
+overflow-x: hidden;
+}
+nav{
+font-weight: 500;
+  height: 16vh;
+background-color: #181819;
+  /* margin-top:0.5%; */
+}
+.nav-link{
+  color:grey;
+}
+.nav-link:hover{
+color:white;
+}
+.navbar{
+  font-size: 90%;
+  justify-content: center!important;
+padding-left: 35.5vw;
+}
+/* LAYER */
+/* LAYER */
+/* LAYER */
+/* LAYER */
+/* LAYER */
+/* LAYER */
+/* LAYER */
+/* LAYER */
+/* LAYER */
+/* LAYER */
+/* LAYER */
+/* LAYER */
+.forum{
+  margin: 5% 20%;
+  padding: 2% 10%
+  text-align:center;
+}
+.date{
+  text-align: left;
+  margin:2% 0;
+}
